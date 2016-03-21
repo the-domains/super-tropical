@@ -1,0 +1,28 @@
+name: Super Tropical
+favicon: null
+layout_spectrum: 0.9947740859352052
+typography_spectrum: 0.8386490405537188
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9223294830881059
+  lightness: 0.6153289373032749
+  saturation: 0.580215873895213
+  rhythmicContrast: 0.4539213178213686
+purpose: []
