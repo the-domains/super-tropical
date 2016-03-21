@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Super Tropical]]></title>
         <description><![CDATA[Super Tropical]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/super-tropical/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 04:38:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 04:42:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/super-tropical/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69bce52a-93e9-492c-8591-3053cf0f6f17.jpg">]]></description>
-            <link>undefinedlos-super-tropical/index.html</link>
+            <link>https://thegrid.ai/super-tropical/los-super-tropical/index.html</link>
             <guid isPermaLink="false">18f10556-66b1-4add-bd06-bd0a7a7d3acd</guid>
-            <pubDate>Mon, 21 Mar 2016 04:38:54 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2016 04:41:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
